@@ -1,0 +1,8 @@
+Package: net.howett.iphonedevwiki
+Name: iPhoneDevWiki
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: Harry
+Author: Harry
+Section: Utilities
